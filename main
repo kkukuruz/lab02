@@ -1,0 +1,29 @@
+[33mcommit 17259d4a24257a66e51b54c6202c0e310adc5487[m[33m ([m[1;36mHEAD -> [m[1;32mpatch1[m[33m, [m[1;31morigin/patch1[m[33m)[m
+Author: kkukuruz <kkukuruzzk@mail.ru>
+Date:   Wed Mar 29 00:28:04 2023 +0300
+
+    Add comments
+
+[33mcommit fbbcb375847afd8530ac0f41daaa346e5360b33f[m
+Author: kkukuruz <kkukuruzzk@mail.ru>
+Date:   Tue Mar 28 23:51:59 2023 +0300
+
+    Remove using namespace std;
+
+[33mcommit f85f7589f74c5d3afe5a629d9b22171a396d26f9[m[33m ([m[1;32mmain[m[33m)[m
+Author: kkukuruz <kkukuruzzk@mail.ru>
+Date:   Thu Mar 16 19:17:26 2023 +0300
+
+    Changed program hello_world.cpp
+
+[33mcommit 1d8bab9464ee40a5f20549d7554f419b8239f1ee[m
+Author: kkukuruz <kkukuruzzk@mail.ru>
+Date:   Thu Mar 16 19:09:44 2023 +0300
+
+    Added file hello_world.cpp
+
+[33mcommit 335dc21dcfe3acda642870d308ed989a213d9f74[m
+Author: kkukuruz <116309607+kkukuruz@users.noreply.github.com>
+Date:   Thu Mar 16 18:24:10 2023 +0300
+
+    Initial commit
